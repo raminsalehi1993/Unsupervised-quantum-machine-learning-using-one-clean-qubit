@@ -33,7 +33,7 @@ Block-encoding (FABLE):
 
 
 ## Citation:
-Ramin Salehi, Asad Waqar Malik, Khoa Luu, and Samee U. Khan "Unsupervised quantum machine learning using one clean qubit", Proc. SPIE 13919, Quantum Computing, Communication, and Simulation VI, 1391917 (5 March 2026); https://doi.org/10.1117/12.3089537
+Salehi, R., Malik, A. W., Luu, K., and Khan, S. U. (2026). Unsupervised quantum machine learning using one clean qubit. In Quantum Computing, Communication, and Simulation VI, Proceedings of SPIE, Vol. 13919, 1391917. https://doi.org/10.1117/12.3089537
 
 ### FABLE (block-encoding circuits)
 If you use the FABLE block-encoding component, please cite:
